@@ -7,3 +7,4 @@ Matplotlib has a procedural interface named the Pylab, which is designed to rese
 To install Matplotlib on your local machine, open Python command prompt and type following commands: </br>
 `pip3 install matplotlib`
 
+
